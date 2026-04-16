@@ -1,0 +1,8 @@
+[00:00] Today I am walking you through the exact AI content system I use across all my affiliate sites. 
+[00:20] Step one is research. I use Claude to analyze the top 10 ranking pages and identify topics they all cover. That is your baseline. 
+[00:45] Step two is gap analysis. I ask Claude: what questions are these articles NOT answering? That is your differentiation angle. 
+[01:10] Step three is the draft. I give Claude a structured prompt with the target keyword, entities to cover, word count, and gap topics. First draft takes 45 seconds. 
+[01:35] Step four is non-negotiable: human editing. Add a real photo. Add a personal opinion. Add one thing from your actual experience with this product category. 
+[02:00] The sites that skip step four are the ones showing up in my penalty case studies six months later. 
+[02:20] Final step: internal linking. Use Claude to suggest 5 relevant internal links from your existing content. Google needs to understand your site topical structure to trust any individual page. 
+[02:45] That is the full system. Copy it. Test it. Adjust based on your niche. 
